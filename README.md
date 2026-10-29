@@ -274,11 +274,11 @@ print("Project files are ready.")
 
 Once the project folders are prepared, execute:
 
-**Step 1 — Feature Extraction**
+**Step 1: Feature Extraction**
 
 Open `02_feature_extraction.ipynb` and run its cells in order. This notebook reads the processed sensor CSV files and generates the feature datasets.
 
-**Step 2 — HMM Modeling**
+**Step 2: HMM Modeling**
 
 Open `03_hmm_modeling.ipynb` and run its cells in order. This notebook trains the HMM, evaluates it using the held-out recordings, and generates the model outputs and visualizations.
 
