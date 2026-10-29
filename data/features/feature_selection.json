@@ -1,0 +1,14 @@
+{
+    "selected_features": [
+        "acc_rms",
+        "gyro_rms",
+        "acc_xy_corr",
+        "acc_dominant_freq",
+        "acc_spectral_energy",
+        "gyro_spectral_energy"
+    ],
+    "selection_basis": "Training data correlation analysis",
+    "sampling_hz": 25,
+    "window_size": 50,
+    "hop_size": 25
+}
