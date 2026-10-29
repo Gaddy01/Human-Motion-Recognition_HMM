@@ -314,12 +314,6 @@ The complete academic report includes the methodology, HMM formulation, results,
 
 ---
 
-## AI Disclosure
-
-AI tools assisted with code debugging, interpretation of selected results, and report drafting. I understand and can independently explain the methodology, algorithms, code, and findings, and I take full responsibility for the submitted work.
-
----
-
 ## Author
 
 **Gaddiel Irakoze**  
