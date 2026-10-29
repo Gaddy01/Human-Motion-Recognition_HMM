@@ -1,0 +1,9 @@
+recording_id,actual_activity,predicted_activity,windows,correct
+Jumping_test_01,Jumping,Jumping,7,True
+Jumping_test_02,Jumping,Jumping,8,True
+Standing_test_01,Standing,Standing,7,True
+Standing_test_02,Standing,Standing,6,True
+Still_testing_01,Still,Still,7,True
+Still_testing_02,Still,Still,7,True
+Walking_test_01,Walking,Walking,7,True
+Walking_test_02,Walking,Standing,6,False

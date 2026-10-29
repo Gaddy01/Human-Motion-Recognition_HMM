@@ -1,0 +1,13 @@
+recording_id,feature,standing_minus_walking_log_density
+Walking_test_01,acc_rms,-4.1780483305358755
+Walking_test_01,gyro_rms,-11.297470556042821
+Walking_test_01,acc_xy_corr,0.7138612600947616
+Walking_test_01,acc_dominant_freq,6.252082468538814
+Walking_test_01,acc_spectral_energy,0.23408601166591797
+Walking_test_01,gyro_spectral_energy,-11.493004968497221
+Walking_test_02,acc_rms,-2.7758139079461213
+Walking_test_02,gyro_rms,-3.403776947517238
+Walking_test_02,acc_xy_corr,0.7690827196923912
+Walking_test_02,acc_dominant_freq,5.728313272779574
+Walking_test_02,acc_spectral_energy,0.2638955161024045
+Walking_test_02,gyro_spectral_energy,0.19409106770047468
